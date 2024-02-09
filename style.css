@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px solid pink;
+    width: 100%;
+    height: auto;
+
+}
+
+#dog{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
